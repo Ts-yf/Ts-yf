@@ -9,7 +9,7 @@
     🎮：绝区零、明日方舟、异环
     🎨：二次元 • 游戏 • 音乐 • 资源收集
 </pre>
-
+[![访问量](https://count.getloli.com/get/@ts-yf:Ts-yf?theme=rule34)](./)
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
