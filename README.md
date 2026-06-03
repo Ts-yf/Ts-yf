@@ -2,14 +2,24 @@
 
 🙋‍♂️ I'm
 @沂沨~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.tsyfun.eu.org/api?theme=onedark&username=Ts-yf&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+  <img src="https://github-readme-stats.tsyfun.eu.org/api?theme=onedark&username=Ts-yf&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.tsyfun.eu.org/api/top-langs/?theme=onedark&username=Ts-yf&layout=compact&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+  <img src="https://github-readme-stats.tsyfun.eu.org/api/top-langs/?theme=onedark&username=Ts-yf&layout=compact&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+</picture>
 <pre>
     💼：桜都科技第二摸鱼大手子
     💻：JavaScript、PHP、HTML、XML、JSON…
     🎮：绝区零、明日方舟、异环
     🎨：二次元 • 游戏 • 音乐 • 资源收集
 </pre>
-[![访问量](https://count.getloli.com/get/@ts-yf:Ts-yf?theme=rule34)](./)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@ts-yf:Ts-yf?theme=rule34">
+  <img src="https://count.getloli.com/get/@ts-yf:Ts-yf?theme=rule34">
+</picture>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
@@ -30,17 +40,3 @@
 
 </details>
 
-<!--
-**Ts-yf/Ts-yf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
